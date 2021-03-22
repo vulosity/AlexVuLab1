@@ -8,6 +8,28 @@ package edu.fiu.lab1;
  *
  */
 public class Rover {
+	
+	String powerStatus;
+	int temperature;
+	String connectionStatus;
+	
+	
+	/**
+	 * This method will allow the Rover to set the overall interal temperature.
+	 */
+	
+	void setTemperature() {
+		
+		
+	}
+	
+	/**
+	 * This method will allow the rover to power on or off if a signal indicates to from Earth.
+	 */
+	
+	void togglePowerOnOff() {
+		
+	}
 
 	/**
 	 * @param args
