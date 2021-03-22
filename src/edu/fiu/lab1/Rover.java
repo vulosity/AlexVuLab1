@@ -21,7 +21,7 @@ public class Rover {
 		
 		
 		/**
-		 * Selfcheck for temperature Sensor class
+		 * Selfcheck for temperature Sensor class.
 		 */
 		
 		TemperatureSensor myTempSensor = new TemperatureSensor();
